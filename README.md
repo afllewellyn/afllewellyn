@@ -32,7 +32,11 @@ Recent wins:
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://squarespace.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/squarespace-colored.svg" alt="Squarespace" title="Squarespace" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a>
 </p>
 
-Experienced across tools and platforms:
+### Expertise
+
+\-  Growth Marketing , Program Management, Client Success, Cross-functional Leadership, Change Management, B2B Marketing, GTM Strategy
+
+## Experienced across tools and platforms:
 
 \- Communication: Slack, Teams, Asana, Basecamp, Smartsheet, ClickUp, Zoom, Powerpoint
 
@@ -52,7 +56,7 @@ Experienced across tools and platforms:
 
 \- Email: Klaviyo and Mailchimp
 
-\- Websites: Shopify
+\- Websites: Shopify, Wordpress, Squarespace
 
 ### Socials
 
