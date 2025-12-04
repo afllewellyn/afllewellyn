@@ -52,7 +52,7 @@ Recent wins:
 
 \- Business + CRM: Hubspot, Salesforce, SAP Ariba
 
-\- Analytics and automations: Datorama, Adobe Analytics, Google Analytics, Google Tag Manager, Google Optimize, Hotjar, Zapier
+\- Analytics and automations: Datorama, Adobe Analytics, Google Analytics, Google Tag Manager, Google Optimize, Hotjar, Zapier, AirOps
 
 \- Email: Klaviyo and Mailchimp
 
