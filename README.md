@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andrew Llewellyn, PMP
 ==============================================================================================================================================
 
-Director | Product Enablement, GTM, Client Success | Vibe-Coding
+Director | Product Enablement, GTM, Marketing, Client Success | Vibe-Coding
 ----------------------------------------------------------------
 
 I’m a GTM operator, marketer, and product-minded leader with 13+ years of experience driving growth across Manufacturing, Healthcare, CPG Ecommerce, Apparel, EdTech, Fitness, and Performing Arts industries. I've worked with a range of company sizes from startups to Fortune 500 companies.
@@ -17,7 +17,7 @@ I combine servant leadership with creative problem-solving (thanks to my musical
 Recent wins:
 
 \- Building AI-powered side projects like ActSolo.AI (teleprompter app), {Vibe Defender} (security scanner), and a custom URL shortener
-\-Expanded client partnership to AOR status, driving +90% YoY top-line growth
+\- Expanded client partnership to AOR status, driving +90% YoY top-line growth
 
 * 🌍  I'm based in Charelston, SC
 * 🖥️  See my portfolio at [My Personal Website](http://www.andrewfllewellyn.com/)
