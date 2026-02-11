@@ -6,18 +6,34 @@ Director | Product Enablement, GTM, Marketing, Client Success | Vibe-Coding
 
 I’m a GTM operator, marketer, and product-minded leader with 13+ years of experience driving growth across Manufacturing, Healthcare, CPG Ecommerce, Apparel, EdTech, Fitness, and Performing Arts industries. I've worked with a range of company sizes from startups to Fortune 500 companies.
 
-What I do:
+### What I do: 
 
-Lead cross-functional teams through complex marketing initiatives and change management. As a strategic and execution partner, I build trusted partnerships with executives, stakeholders, and team members. I've also led company-wide thought leadership presentations.
+\- I work WITH clients to create roadmaps and collaborate about what comes next in the relationship
 
-My approach:
+\- Lead cross-functional programs with Product, Sales, BI, and Marketing; define KPI and executive dashboards; run QBRs that align media investment to business priorities
 
-I combine servant leadership with creative problem-solving (thanks to my musical background) to drive business focused outcomes. I work WITH clients to create roadmaps and collaborate about what comes next in the relationship.
+\- Lead change management with exec stakeholders
 
-Recent wins:
+### How I work:
 
-\- Building AI-powered side projects like ActSolo.AI (teleprompter app), {Vibe Defender} (security scanner), and a custom URL shortener
-\- Expanded client partnership to AOR status, driving +90% YoY top-line growth
+\- Servant-leader + a “builder” mindset. I like problems where the job is to align teams, simplify the story, and build systems that improves adoption, revenue, or efficiency. 
+
+### Recent wins:
+
+\- Expanded our agency role to AOR for a Fortune 500 (Solventum) ~10 business units (USAC/EMEA) as strategy lead and senior POC; delivered 314% YoY revenue expansion, 60% fewer disqualified B2B leads, and supported a product sellout
+
+\- Recent expansions include new formal logos (Thermo Fisher & Aqua-Pure), demonstrating cross-brand growth and account strength
+
+\- Build and operationalize measurement (Kantar, DISQO BLS, Datorama) and omnichannel GTM (SEM, paid social, display, YouTube, trade publications); manage teams and platform partners to scale best practices
+
+### Recent Projects:
+
+\- Built AI/automation side projects (e.g., ActSolo.AI, {Vibe Defender}, a custom URL shortener, and a repeatable AirOps content GTM workflow
+
+\- Built custom paid social audience tool that enabled media planning team to complete work 20x faster
+
+\- Built custom AI Overview gap analyzer Chrome Extension 
+
 
 * 🌍  I'm based in Charelston, SC
 * 🖥️  See my portfolio at [My Personal Website](http://www.andrewfllewellyn.com/)
