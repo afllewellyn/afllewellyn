@@ -22,7 +22,7 @@ I’m a GTM operator, marketer, and product-minded leader with 13+ years of expe
 
 \- Expanded our agency role to AOR for a Fortune 500 (Solventum) ~10 business units (USAC/EMEA) as strategy lead and senior POC; delivered 314% YoY revenue expansion, 60% fewer disqualified B2B leads, and supported a product sellout
 
-\- Recent expansions include new formal logos (Thermo Fisher & Aqua-Pure), demonstrating cross-brand growth and account strength
+\- Recent expansions include new formal logos (Thermo Fisher), demonstrating cross-brand growth and account strength
 
 \- Build and operationalize measurement (Kantar, DISQO BLS, Datorama) and omnichannel GTM (SEM, paid social, display, YouTube, trade publications); manage teams and platform partners to scale best practices
 
