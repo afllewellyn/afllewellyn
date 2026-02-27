@@ -37,7 +37,7 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 
 ### Recent wins:
 
-\- Expanded our agency role to AOR for a Fortune 500 (Solventum) ~10 business units (USAC/EMEA) as strategy lead and senior POC; delivered 314% YoY revenue expansion, 60% fewer disqualified B2B leads, and supported a product sellout
+\- Expanded our agency role to AOR for a Fortune 500 (Solventum) ~10 business units (USAC/EMEA); delivered 314% YoY revenue expansion, 60% fewer disqualified B2B leads, and supported a product sellout
 
 \- Recent expansions include new formal logos (Thermo Fisher), demonstrating cross-brand growth and account strength
 
@@ -48,9 +48,9 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 * 🌍  I'm based in Charelston, SC
 * 🖥️  See my portfolio at [My Personal Website](http://www.andrewfllewellyn.com/)
 * ✉️  You can contact me at [afllewellyn@gmail.com](mailto:afllewellyn@gmail.com)
-* 🚀  I'm currently working on building ai agents to analyze and optimize paid media campaigns with Claude Code
-* 🧠  I'm currently Vibe-Coding and learning GTM Engineering
-* 💬  Ask me about In my spare time, you'll find me with family, exercising, roasting coffee, playing trombone in the Summerville Orchestra, and vibe coding/engineering. I was hooked building products after starting my first project with Lovable (ActSolo.AI) and have continued to add others in the mix while exploring the traditional devtools and managing the product delivery to make it happen.
+* 🚀 + 🧠 I'm currently building ai agents to analyze and optimize paid media campaigns, run audience research, create media plans, and learning GTM Engineering with Claude Code.
+* 💬  Ask me about: In my spare time, you'll find me with family, exercising, roasting coffee, playing trombone in the Summerville Orchestra, and vibe coding/engineering. I was hooked building products after starting my first project with Lovable (ActSolo.AI) and have continued to add others in the mix while exploring the traditional devtools and managing the product delivery to make it happen.
+
 
 ### Skills
 
