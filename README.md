@@ -26,7 +26,7 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 
 \- [Vibe Defender](https://vibe-defender.lovable.app/) - Check your vibe-coded homepage for missing security headers, exposed PII, and common website misconfigurations
 
-\- Paid social audience tool that enabled media planning team to complete work 20x faster (https://wavelength-marketing-strategist.lovable.app/)
+\- [Paid social audience tool](https://wavelength-marketing-strategist.lovable.app/) that enabled media planning team to complete work 20x faster
 
 \- [Personal URL shortener](https://tangerine-cajeta-ec9200.netlify.app/)
 
