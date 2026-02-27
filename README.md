@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andrew Llewellyn, PMP
 ==============================================================================================================================================
 
-Director | Product, GTM, Marketing, Program Management | Vibe-Coding
+Director | Program Management, Product, Marketing, GTM | Vibe-Coding
 ----------------------------------------------------------------
 
 I’m a product-minded marketer, GTM operator, program manager, and leader with 13+ years of experience driving growth across Manufacturing, Healthcare, CPG Ecommerce, Apparel, EdTech, Fitness, and Performing Arts industries. I've worked with a range of company sizes from startups to Fortune 500 companies.
