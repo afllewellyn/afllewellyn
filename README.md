@@ -1,22 +1,39 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andrew Llewellyn, PMP
 ==============================================================================================================================================
 
-Director | Product Enablement, GTM, Marketing, Client Success | Vibe-Coding
+Director | Product, GTM, Marketing, Program Management | Vibe-Coding
 ----------------------------------------------------------------
 
-I’m a GTM operator, marketer, and product-minded leader with 13+ years of experience driving growth across Manufacturing, Healthcare, CPG Ecommerce, Apparel, EdTech, Fitness, and Performing Arts industries. I've worked with a range of company sizes from startups to Fortune 500 companies.
+I’m a product-minded marketer, GTM operator, program manager, and leader with 13+ years of experience driving growth across Manufacturing, Healthcare, CPG Ecommerce, Apparel, EdTech, Fitness, and Performing Arts industries. I've worked with a range of company sizes from startups to Fortune 500 companies.
 
 ### What I do: 
 
 \- I work WITH clients to create roadmaps and collaborate about what comes next in the relationship
 
-\- Lead cross-functional programs with Product, Sales, BI, and Marketing; define KPI and executive dashboards; run QBRs that align media investment to business priorities
+\- Lead cross-functional programs with Product, Sales, BI, and Marketing and align media investment to business outcomes
 
 \- Lead change management with exec stakeholders
 
 ### How I work:
 
 \- Servant-leader + a “builder” mindset. I like problems where the job is to align teams, simplify the story, and build systems that improves adoption, revenue, or efficiency. 
+
+### Recent Products Built:
+
+\- [ActSolo.AI](https://actsolo.ai/) - An AI Voice scene partner for solo actors built with ElevenLabs
+
+\- [AI Overview gap analyzer Chrome Extension](https://chromewebstore.google.com/detail/aio-gap-analyzer/cakjlndpciolnmfnclfapfcnoinoigjp?pli=1)
+
+\- [Vibe Defender](https://vibe-defender.lovable.app/) - Check your vibe-coded homepage for missing security headers, exposed PII, and common website misconfigurations
+
+\- Paid social audience tool that enabled media planning team to complete work 20x faster (https://wavelength-marketing-strategist.lovable.app/)
+
+\- [Personal URL shortener](https://tangerine-cajeta-ec9200.netlify.app/)
+
+\- A repeatable AirOps content GTM workflow
+
+\- A reusable Zapier workflow for transcript analysis - to speed follow-ups and report on presentation performance
+
 
 ### Recent wins:
 
@@ -26,20 +43,13 @@ I’m a GTM operator, marketer, and product-minded leader with 13+ years of expe
 
 \- Build and operationalize measurement (Kantar, DISQO BLS, Datorama) and omnichannel GTM (SEM, paid social, display, YouTube, trade publications); manage teams and platform partners to scale best practices
 
-### Recent Projects:
-
-\- Built AI/automation side projects (e.g., ActSolo.AI, {Vibe Defender}, a custom URL shortener, and a repeatable AirOps content GTM workflow
-
-\- Built custom paid social audience tool that enabled media planning team to complete work 20x faster
-
-\- Built custom AI Overview gap analyzer Chrome Extension 
 
 
 * 🌍  I'm based in Charelston, SC
 * 🖥️  See my portfolio at [My Personal Website](http://www.andrewfllewellyn.com/)
 * ✉️  You can contact me at [afllewellyn@gmail.com](mailto:afllewellyn@gmail.com)
-* 🚀  I'm currently working on [ActSolo.AI](http://act-solo-ai.lovable.app/auth)
-* 🧠  I'm currently learning Vibe-Coding and GTM Engineering
+* 🚀  I'm currently working on building ai agents to analyze and optimize paid media campaigns with Claude Code
+* 🧠  I'm currently Vibe-Coding and learning GTM Engineering
 * 💬  Ask me about In my spare time, you'll find me with family, exercising, roasting coffee, playing trombone in the Summerville Orchestra, and vibe coding/engineering. I was hooked building products after starting my first project with Lovable (ActSolo.AI) and have continued to add others in the mix while exploring the traditional devtools and managing the product delivery to make it happen.
 
 ### Skills
@@ -50,15 +60,15 @@ I’m a GTM operator, marketer, and product-minded leader with 13+ years of expe
 
 ### Expertise
 
-\-  Growth Marketing , Program Management, Client Success, Cross-functional Leadership, Change Management, B2B Marketing, GTM Strategy
+\-  Program Management, Growth Marketing, Client Success, Cross-functional Leadership, Change Management, B2B Marketing, GTM Strategy
 
 ## Experienced across tools and platforms:
 
 \- Communication: Slack, Teams, Asana, Basecamp, Smartsheet, ClickUp, Zoom, Powerpoint
 
-\- AI and dev tools: Lovable, Supabase, VS Code, Codex, Cline, ElevenLabs, ChatGPT, Claude, Perplexity, NotebookLM, OpenAI
+\- AI and dev tools: Lovable, Supabase, VS Code, Codex, Claude Code, Cline, ElevenLabs, ChatGPT, Perplexity, NotebookLM, OpenAI, Vercel
 
-\- DSPs: Xandr, Pontiac, Yahoo, Amazon
+\- DSPs: Pontiac, Xandr, Yahoo, Amazon
 
 \- Partnerships: Various 3rd party data providers 
 
