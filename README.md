@@ -41,7 +41,7 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 
 \- Recent expansions include new formal logos (Thermo Fisher), demonstrating cross-brand growth and account strength
 
-\- Build and operationalize measurement (Kantar, DISQO BLS, Datorama) and omnichannel GTM (SEM, paid social, display, YouTube, trade publications); manage teams and platform partners to scale best practices
+\- Build and operationalize measurement (Kantar, DISQO BLS, Datorama) and omnichannel GTM (SEM, paid social, display, YouTube, CTV, trade publications, etc.); manage teams and platform partners to scale best practices
 
 
 
