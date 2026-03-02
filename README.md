@@ -48,7 +48,7 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 * 🌍  I'm based in Charelston, SC
 * 🖥️  See my portfolio at [My Personal Website](http://www.andrewfllewellyn.com/)
 * ✉️  You can contact me at [afllewellyn@gmail.com](mailto:afllewellyn@gmail.com)
-* 🚀 + 🧠 I'm currently building ai agents to analyze and optimize paid media campaigns, run audience research, create media plans, and learning GTM Engineering with Claude Code.
+* 🚀 + 🧠 I'm currently building ai agents to analyze and optimize paid media campaigns (saved at least ~4hrs weekly), run audience research, create media plans, and learning GTM Engineering with Claude Code.
 * 💬  Ask me about: In my spare time, you'll find me with family, exercising, roasting coffee, playing trombone in the Summerville Orchestra, and vibe coding/engineering. I was hooked building products after starting my first project with Lovable (ActSolo.AI) and have continued to add others in the mix while exploring the traditional devtools and managing the product delivery to make it happen.
 
 
