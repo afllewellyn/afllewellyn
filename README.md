@@ -28,11 +28,13 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 
 \- [Paid social audience tool](https://wavelength-marketing-strategist.lovable.app/) that enabled media planning team to complete work 20x faster
 
+\- -Built a workflow and automation system of AI paid social analyst agents (proprietary) with Claude Code that save approx. ~13hrs of analysis and reporting time 
+
 \- [Personal URL shortener](https://tangerine-cajeta-ec9200.netlify.app/)
 
-\- A repeatable AirOps content GTM workflow
+\- A repeatable AirOps content GTM workflow 
 
-\- A reusable Zapier workflow for transcript analysis - to speed follow-ups and report on presentation performance
+\- A reusable Zapier workflow for transcript analysis to speed follow-ups and report on the speakers presentation performance
 
 
 ### Recent wins:
@@ -48,7 +50,7 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 * 🌍  I'm based in Charelston, SC
 * 🖥️  See my portfolio at [My Personal Website](http://www.andrewfllewellyn.com/)
 * ✉️  You can contact me at [afllewellyn@gmail.com](mailto:afllewellyn@gmail.com)
-* 🚀 + 🧠 I'm currently building ai agents to analyze and optimize paid media campaigns (saved at least ~12hrs+ work time), run audience research, create media plans with Claude Code, and learning GTM Engineering.
+* 🚀 + 🧠 I'm currently building ai agents to analyze and optimize paid media campaigns, run audience research, create media plans with Claude Code, and learning GTM Engineering.
 * 💬  Ask me about: In my spare time, you'll find me with family, exercising, roasting coffee, playing trombone in the Summerville Orchestra, and vibe coding/engineering. I was hooked building products after starting my first project with Lovable (ActSolo.AI) and have continued to add others in the mix while exploring the traditional devtools and managing the product delivery to make it happen.
 
 
