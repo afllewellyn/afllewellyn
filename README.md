@@ -28,7 +28,7 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 
 \- [Paid social audience tool](https://wavelength-marketing-strategist.lovable.app/) that enabled media planning team to complete work 20x faster
 
-\- -Built a workflow and automation system of AI paid social analyst agents (proprietary) with Claude Code that save approx. ~13hrs of analysis and reporting time 
+\- A repeatable workflow and automation system of AI paid social analyst agents (proprietary) with Claude Code that save approx. ~13hrs of analysis and reporting time 
 
 \- [Personal URL shortener](https://tangerine-cajeta-ec9200.netlify.app/)
 
