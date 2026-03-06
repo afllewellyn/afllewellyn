@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Director | Program Management, Product, Marketing, GTM | Vibe-Coding
 ----------------------------------------------------------------
 
-I’m a product-minded marketer, GTM operator, program manager, and leader with 13+ years of experience driving growth across Manufacturing, Healthcare, CPG Ecommerce, Apparel, EdTech, Fitness, and Performing Arts industries. I've worked with a range of company sizes from startups to Fortune 500 companies.
+I’m a product-minded marketer, GTM operator, program manager, and leader with 13+ years of experience driving growth across Manufacturing, Healthcare, CPG Ecommerce, Apparel, EdTech, Fitness, and Performing Arts industries. I've worked with a range of company sizes from startups to Fortune 500.
 
 ### What I do: 
 
