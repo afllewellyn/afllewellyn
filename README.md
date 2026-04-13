@@ -28,11 +28,11 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 
 \- [Paid social audience tool](https://wavelength-marketing-strategist.lovable.app/) that enabled media planning team to complete work 20x faster
 
-\- A repeatable workflow and automation system of AI paid social analyst agents (proprietary) with Claude Code that save approx. ~13hrs of analysis and reporting time 
+\- A repeatable workflow and automation system of 13 AI paid social analyst agents (proprietary) with Claude Code that save approx. ~20hrs+ of analysis and reporting time 
 
 \- [Personal URL shortener](https://tangerine-cajeta-ec9200.netlify.app/)
 
-\- A repeatable AirOps content GTM workflow 
+\- A repeatable AirOps content GTM workflow that accelerated marketing activation
 
 \- A reusable Zapier workflow for transcript analysis to speed follow-ups and report on the speakers presentation performance
 
@@ -41,7 +41,7 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 
 \- Expanded our agency role to AOR for a Fortune 500 (Solventum) ~10 business units (USAC/EMEA); delivered 314% YoY revenue expansion, 60% fewer disqualified B2B leads, and supported a product sellout
 
-\- Recent expansions include new formal logos (Thermo Fisher), demonstrating cross-brand growth and account strength
+\- Recent expansions include new formal logos (Thermo Fisher and Aqua-Pure), demonstrating cross-brand growth and account strength
 
 \- Build and operationalize measurement (Kantar, DISQO BLS, Datorama) and omnichannel GTM (SEM, paid social, display, YouTube, CTV, trade publications, etc.); manage teams and platform partners to scale best practices
 
