@@ -39,7 +39,7 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 
 ### Recent wins:
 
-\- Expanded our agency role to AOR for a Fortune 500 (Solventum) ~10 business units (USAC/EMEA); delivered 314% YoY revenue expansion, 60% fewer disqualified B2B leads, and supported a product sellout
+\- Expanded our agency role to AOR for a Fortune 500 (Solventum) ~10 business units (USAC/EMEA); delivered 314% YoY revenue expansion
 
 \- Recent expansions include new formal logos (Thermo Fisher and Aqua-Pure), demonstrating cross-brand growth and account strength
 
