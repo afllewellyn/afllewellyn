@@ -30,11 +30,13 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 
 \- A repeatable workflow and automation system of 13 AI paid social analyst agents (proprietary) with Claude Code that save approx. ~20hrs+ of analysis and reporting time 
 
+\- An AI-powered agent and eval workflow for bulk processing of project data to Salesforce, saving hours of work.
+
 \- [Personal URL shortener](https://tangerine-cajeta-ec9200.netlify.app/)
 
 \- A repeatable AirOps content GTM workflow that accelerated marketing activation
 
-\- A reusable Zapier workflow for transcript analysis to speed follow-ups and report on the speakers presentation performance
+\- A Zapier agent for transcript analysis to speed follow-ups and report on the speakers presentation performance
 
 
 ### Recent wins:
