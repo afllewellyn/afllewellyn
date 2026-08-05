@@ -24,7 +24,7 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 
 \- [AI Overview gap analyzer Chrome Extension](https://chromewebstore.google.com/detail/aio-gap-analyzer/cakjlndpciolnmfnclfapfcnoinoigjp?pli=1)
 
-\- [A command-line tool that measures Share of Search with the DataForSEO API] (https://github.com/afllewellyn/share-of-search-tool).
+\- [A command-line tool that measures Share of Search with the DataForSEO API](https://github.com/afllewellyn/share-of-search-tool).
 
 \- [Vibe Defender](https://vibe-defender.lovable.app/) - Check your vibe-coded homepage for missing security headers, exposed PII, and common website misconfigurations
 
