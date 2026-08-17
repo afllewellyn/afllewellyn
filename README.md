@@ -24,9 +24,9 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 
 \- [AI Overview gap analyzer Chrome Extension](https://chromewebstore.google.com/detail/aio-gap-analyzer/cakjlndpciolnmfnclfapfcnoinoigjp?pli=1)
 
-\- [A CLI tool that measures Share of Search with the DataForSEO API](https://github.com/afllewellyn/share-of-search-tool).
+\- [A CLI tool that measures Share of Search with the DataForSEO API](https://github.com/afllewellyn/share-of-search-tool)
 
-\-[A CLI tool that researches a brand and market, detects buying signals, classifies buying-cycle shifts, monitors competitor GTM activity, and gives you prioritized GTM recommendations](https://github.com/afllewellyn/Brand-GTM-Market-Intelligence)
+\-[A CLI tool that researches a brand and market, detects buying signals, classifies buying-cycle shifts, monitors competitor GTM activity, and gives you prioritized GTM recommendations](https://github.com/afllewellyn/Brand-GTM-Market-Intelligence). This was re-built based off of my AirOps content GTM workflow
 
 \- [Vibe Defender](https://vibe-defender.lovable.app/) - Check your vibe-coded homepage for missing security headers, exposed PII, and common website misconfigurations
 
@@ -34,12 +34,9 @@ I’m a product-minded marketer, GTM operator, program manager, and leader with 
 
 \- A repeatable workflow and automation system of 13 AI paid social analyst agents (proprietary) with Claude Code that save approx. ~20hrs+ of analysis and reporting time 
 
-\- An AI-powered agent and eval workflow for bulk processing of project data to Salesforce, saving hours of work.
+\- An AI-powered agent and eval workflow for bulk processing of project data to Salesforce, saving hours of work
 
 \- [Personal URL shortener](https://tangerine-cajeta-ec9200.netlify.app/)
-
-\- A repeatable AirOps content GTM workflow that accelerated marketing activation
-
 
 
 ### Recent wins:
