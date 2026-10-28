@@ -70,7 +70,7 @@ I’m a product-minded marketer and GTM leader with 13+ years of experience driv
 
 \- Communication: Slack, Teams, Asana, Basecamp, Smartsheet, ClickUp, Zoom, Powerpoint
 
-\- AI and dev tools: Lovable, Supabase, VS Code, Codex, Claude Code, Cline, ElevenLabs, ChatGPT, Perplexity, NotebookLM, OpenAI, Vercel
+\- AI and dev tools: Lovable, Supabase, VS Code, Codex, Claude Code, Cline, ElevenLabs, ChatGPT, NotebookLM, Vercel
 
 \- DSPs: Pontiac, Xandr, Yahoo, Amazon
 
@@ -82,7 +82,7 @@ I’m a product-minded marketer and GTM leader with 13+ years of experience driv
 
 \- Business + CRM: Hubspot, Salesforce, SAP Ariba
 
-\- Analytics and automations: Datorama, Adobe Analytics, Google Analytics, Google Tag Manager, Google Optimize, Hotjar, Zapier, AirOps
+\- Analytics: PostHog, Datorama, Google Analytics, Google Tag Manager, Google Optimize, AirOps
 
 \- Email: Klaviyo and Mailchimp
 
